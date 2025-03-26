@@ -2,6 +2,8 @@
 
 LeagueOS is a comprehensive web application that provides League of Legends players with an integrated environment to improve their gameplay, share strategies, analyze matches, and connect with the community. Built with a modern, operating system-inspired interface, LeagueOS offers a unique, feature-rich experience supported by real-time data integration and advanced caching strategies.
 
+**Note**: The full source code can be shared upon request, with sensitive or proprietary implementation details intentionally redacted.
+
 ![LeagueOS Home](https://github.com/user-attachments/assets/d46a947f-8384-4003-9d23-2c7a9dbca1bf)
 
 ## Features
